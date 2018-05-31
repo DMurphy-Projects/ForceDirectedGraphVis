@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Force Directed Visulisation Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Force_Directed_Visulisation_Project_jar</output-path>
+    <root id="archive" name="Force Directed Visulisation Project.jar">
+      <element id="module-output" name="Force Directed Visulisation Project" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/concurrentlinkedhashmap-lru-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/lucene-core-3.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-consistency-check-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-csv-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-cypher-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-cypher-compiler-1.9-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-cypher-compiler-2.0-2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-cypher-compiler-2.1-2.1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-cypher-compiler-2.2-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-graph-algo-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-graph-matching-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-import-tool-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-io-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-jmx-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-kernel-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-lucene-index-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-primitive-collections-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-shell-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-udc-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/neo4j-unsafe-2.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/opencsv-2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/org.apache.servicemix.bundles.jline-0.9.94_1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/parboiled-core-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/parboiled-scala_2.10-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/scala-library-2.10.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/neo4j/server-api-2.2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+create (_11673:`channel` {`channelId`:"UCTIGTNgYYuIxL7Ku2Ot3V8Q", `channelName`:"Evan Harkins", `cluster`:0})
+create (_11674:`video` {`cluster`:0, `title`:"Order", `uploadDate`:"2015-04-20T14:58:12.000Z", `videoId`:"8asDTUBR2wo"})
+create (_11675:`video` {`cluster`:0, `title`:"Ffestiniog Railway", `uploadDate`:"2015-06-14T00:16:03.000Z", `videoId`:"cCa0pgBq1wg"})
+create (_11676:`video` {`cluster`:0, `title`:"Garratt Live Steam 71/4\"", `uploadDate`:"2015-03-26T07:28:42.000Z", `videoId`:"7eigLkBy6Ls"})
+create _11673-[:`uploaded`]->_11674
+create _11673-[:`favorites`]->_11675
+create _11673-[:`favorites`]->_11676

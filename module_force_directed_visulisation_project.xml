@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_force_directed_visulisation_project" default="compile.module.force_directed_visulisation_project">
+  <dirname property="module.force_directed_visulisation_project.basedir" file="${ant.file.module_force_directed_visulisation_project}"/>
+  
+  <property name="module.jdk.home.force_directed_visulisation_project" value="${jdk.home.1.8}"/>
+  <property name="module.jdk.bin.force_directed_visulisation_project" value="${jdk.bin.1.8}"/>
+  <property name="module.jdk.classpath.force_directed_visulisation_project" value="jdk.classpath.1.8"/>
+  
+  <property name="compiler.args.force_directed_visulisation_project" value="-encoding UTF-8 -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="force_directed_visulisation_project.output.dir" value="${module.force_directed_visulisation_project.basedir}/bin"/>
+  <property name="force_directed_visulisation_project.testoutput.dir" value="${module.force_directed_visulisation_project.basedir}/bin"/>
+  
+  <path id="force_directed_visulisation_project.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="force_directed_visulisation_project.module.production.classpath">
+    <path refid="${module.jdk.classpath.force_directed_visulisation_project}"/>
+    <path refid="library.neo4j.classpath"/>
+  </path>
+  
+  <path id="force_directed_visulisation_project.runtime.production.module.classpath">
+    <pathelement location="${force_directed_visulisation_project.output.dir}"/>
+    <path refid="library.neo4j.classpath"/>
+  </path>
+  
+  <path id="force_directed_visulisation_project.module.classpath">
+    <pathelement location="${force_directed_visulisation_project.output.dir}"/>
+    <path refid="${module.jdk.classpath.force_directed_visulisation_project}"/>
+    <path refid="library.neo4j.classpath"/>
+  </path>
+  
+  <path id="force_directed_visulisation_project.runtime.module.classpath">
+    <pathelement location="${force_directed_visulisation_project.output.dir}"/>
+    <path refid="library.neo4j.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.force_directed_visulisation_project">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.force_directed_visulisation_project">
+    <patternset refid="excluded.from.module.force_directed_visulisation_project"/>
+  </patternset>
+  
+  <path id="force_directed_visulisation_project.module.sourcepath">
+    <dirset dir="${module.force_directed_visulisation_project.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.force_directed_visulisation_project" depends="compile.module.force_directed_visulisation_project.production,compile.module.force_directed_visulisation_project.tests" description="Compile module Force Directed Visulisation Project"/>
+  
+  <target name="compile.module.force_directed_visulisation_project.production" depends="register.custom.compilers" description="Compile module Force Directed Visulisation Project; production classes">
+    <mkdir dir="${force_directed_visulisation_project.output.dir}"/>
+    <javac2 destdir="${force_directed_visulisation_project.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.force_directed_visulisation_project}/javac">
+      <compilerarg line="${compiler.args.force_directed_visulisation_project}"/>
+      <bootclasspath refid="force_directed_visulisation_project.module.bootclasspath"/>
+      <classpath refid="force_directed_visulisation_project.module.production.classpath"/>
+      <src refid="force_directed_visulisation_project.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.force_directed_visulisation_project"/>
+    </javac2>
+    
+    <copy todir="${force_directed_visulisation_project.output.dir}">
+      <fileset dir="${module.force_directed_visulisation_project.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.force_directed_visulisation_project.tests" depends="register.custom.compilers,compile.module.force_directed_visulisation_project.production" description="compile module Force Directed Visulisation Project; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.force_directed_visulisation_project" description="cleanup module">
+    <delete dir="${force_directed_visulisation_project.output.dir}"/>
+    <delete dir="${force_directed_visulisation_project.testoutput.dir}"/>
+  </target>
+</project>

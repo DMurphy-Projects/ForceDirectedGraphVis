@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+
+    <path id="apache.ant.ext.lib.classpath">
+        <fileset dir="${java.library.path}" includes="*.jar" />
+    </path>
+
+    <target name="run" depends="compile">
+        <java classname="bin/Controller/Main">
+            <classpath path="bin" />
+        </java>
+    </target>
+    <target name="compile">
+        <javac includeantruntime="true" srcdir=".\src" destdir="bin" >
+        </javac>
+    </target>
+</project>

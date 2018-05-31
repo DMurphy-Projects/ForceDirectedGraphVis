@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Neo4j" systemlibrary="false">
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/concurrentlinkedhashmap-lru-1.4.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/lucene-core-3.6.2.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-consistency-check-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-csv-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-cypher-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-cypher-compiler-1.9-2.0.4.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-cypher-compiler-2.0-2.0.4.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-cypher-compiler-2.1-2.1.8.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-cypher-compiler-2.2-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-graph-algo-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-graph-matching-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-import-tool-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-io-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-jmx-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-kernel-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-lucene-index-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-primitive-collections-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-shell-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-udc-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/neo4j-unsafe-2.2.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/opencsv-2.3.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/org.apache.servicemix.bundles.jline-0.9.94_1.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/parboiled-core-1.1.7.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/parboiled-scala_2.10-1.1.7.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/scala-library-2.10.5.jar"/>
+        <archive path="C:/Users/Dean/Documents/Uni Stuff/neo4j-community-2.2.5-windows/neo4j-community-2.2.5/lib/server-api-2.2.5.jar"/>
+    </library>
+</eclipse-userlibraries>

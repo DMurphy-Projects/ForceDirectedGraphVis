@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" jdk="1.8" jdk_type="JavaSDK">
+	<contentEntry url="file://$MODULE_DIR$/../TestProjects"/>
+	<levels>
+		<level name="neo4j" value="project"/>
+	</levels>
+</component>

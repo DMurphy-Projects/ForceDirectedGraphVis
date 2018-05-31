@@ -1,0 +1,11 @@
+function hello()
+    for i=0, 10 do
+        print("1")
+        print("1")
+    end
+    if i < 10 then
+        print("2")
+    else
+        print("3")
+    end
+end

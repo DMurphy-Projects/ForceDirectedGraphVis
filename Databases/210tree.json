@@ -1,0 +1,3070 @@
+{
+    "groups": {
+        "1": {
+            "n": [
+                22972, 
+                50472, 
+                63067
+            ], 
+            "oo": {
+                "1": true, 
+                "8": true, 
+                "9": true
+            }, 
+            "x": 1045.41, 
+            "y": -5025.64
+        },
+    }, 
+    "imageRoot": "/image//", 
+    "imageZoomLevels": [
+        0.1246, 
+        0.2109, 
+        0.2972, 
+        0.3835
+    ], 
+    "max_x": 9373, 
+    "max_y": 8346, 
+    "min_x": -10604, 
+    "min_y": -7855, 
+    "nodes": [
+        {
+            "da": 0, 
+            "dn": "Wandslinger", 
+            "g": 1, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/wandslingersprowess.png", 
+            "id": 22972, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 2, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Attack Speed with Wands", 
+                "16% increased Damage with Wands"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Wand Damage and Accuracy", 
+            "g": 1, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/masterywand.png", 
+            "id": 50472, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 4, 
+            "out": [
+                63067, 
+                11551
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% increased Accuracy Rating with Wands", 
+                "10% increased Damage with Wands"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Wand Damage", 
+            "g": 1, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/masterywand.png", 
+            "id": 63067, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 0, 
+            "out": [
+                22972
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% increased Damage with Wands"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 3, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagemelee.png", 
+            "id": 39211, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Melee Physical Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 3, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagemelee.png", 
+            "id": 51856, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                59718, 
+                48513
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Melee Physical Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 3, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagemelee.png", 
+            "id": 48513, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                39211
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Melee Physical Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Physical Attack Damage", 
+            "g": 3, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damage.png", 
+            "id": 5612, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                39211, 
+                35568
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Attacks"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap and Mine Critical Strike Chance", 
+            "g": 4, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapsradius.png", 
+            "id": 2260, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                29549
+            ], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Critical Strike Chance with Traps", 
+                "20% increased Critical Strike Chance with Mines"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap and Mine Critical Strike Chance", 
+            "g": 4, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapsradius.png", 
+            "id": 35334, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 8, 
+            "out": [
+                2260
+            ], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Critical Strike Chance with Traps", 
+                "20% increased Critical Strike Chance with Mines"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap and Mine Critical Strike Multiplier", 
+            "g": 4, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapdamage.png", 
+            "id": 29549, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 2, 
+            "out": [
+                61689
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Critical Strike Multiplier with Traps", 
+                "10% increased Critical Strike Multiplier with Mines"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Blast Cascade", 
+            "g": 4, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapsradius.png", 
+            "id": 61689, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                35334
+            ], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Critical Strike Multiplier with Traps", 
+                "20% increased Critical Strike Multiplier with Mines", 
+                "15% chance to gain a Power Charge when your Trap is triggered by an Enemy", 
+                "8% chance to gain a Power Charge when your Mine is Detonated targeting an Enemy"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap Mastery", 
+            "g": 4, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryTraps.png", 
+            "id": 13676, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Two Handed Melee Damage", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/2handeddamage.png", 
+            "id": 60169, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 0, 
+            "out": [
+                14606
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Two Handed Melee Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Two Handed Melee Damage", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/2handeddamage.png", 
+            "id": 2454, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 2, 
+            "out": [
+                38777
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Two Handed Melee Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Butchery", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/butchery.png", 
+            "id": 14606, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 1, 
+            "out": [
+                2454
+            ], 
+            "sa": 20, 
+            "sd": [
+                "25% increased Physical Damage with Two Handed Melee Weapons", 
+                "5% increased Attack Speed with Two Handed Melee Weapons", 
+                "+20 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "One Handed Melee Damage", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/onehanddamage.png", 
+            "id": 39786, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 8, 
+            "out": [
+                34130
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with One Handed Melee Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "One Handed Melee Damage", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/onehanddamage.png", 
+            "id": 10282, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 6, 
+            "out": [
+                35663
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with One Handed Melee Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Strong Arm", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/strongarm.png", 
+            "id": 35663, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 7, 
+            "out": [
+                39786
+            ], 
+            "sa": 20, 
+            "sd": [
+                "25% increased Physical Damage with One Handed Melee Weapons", 
+                "5% increased Attack Speed with One Handed Melee Weapons", 
+                "+20 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagemelee.png", 
+            "id": 38777, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 3, 
+            "out": [
+                10282, 
+                58449
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Melee Physical Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Attack Speed", 
+            "g": 5, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeed.png", 
+            "id": 34130, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 9, 
+            "out": [
+                60169, 
+                55649
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% increased Attack Speed"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Accuracy", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/accuracysword.png", 
+            "id": 807, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 8, 
+            "out": [
+                54354
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Swords", 
+                "8% increased Accuracy Rating with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Attack Speed", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeedsworddex.png", 
+            "id": 56509, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "6% increased Physical Damage with Swords", 
+                "4% increased Attack Speed with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Attack Speed", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeedsworddex.png", 
+            "id": 52213, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 10, 
+            "out": [
+                54354, 
+                12720
+            ], 
+            "sa": 0, 
+            "sd": [
+                "6% increased Physical Damage with Swords", 
+                "4% increased Attack Speed with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Accuracy", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/accuracysword.png", 
+            "id": 17618, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 7, 
+            "out": [
+                807
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Swords", 
+                "8% increased Accuracy Rating with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeedsworddex.png", 
+            "id": 54354, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 9, 
+            "out": [
+                12412
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Slashing Comeback", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/slashingcomeback.png", 
+            "id": 529, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 4, 
+            "out": [
+                41959
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% additional Block Chance while Dual Wielding or holding a Shield", 
+                "24% increased Physical Damage with Swords", 
+                "20% increased Accuracy Rating with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Accuracy", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/accuracysword.png", 
+            "id": 41959, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 6, 
+            "out": [
+                17618
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Physical Damage with Swords", 
+                "8% increased Accuracy Rating with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Brutal Blade", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/cruelblade.png", 
+            "id": 59151, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 2, 
+            "out": [
+                56509
+            ], 
+            "sa": 20, 
+            "sd": [
+                "16% increased Physical Damage with Swords", 
+                "8% increased Attack Speed with Swords", 
+                "+20 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Mastery", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupSword.png", 
+            "id": 2021, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sword Damage and Attack Speed", 
+            "g": 6, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeedsworddex.png", 
+            "id": 12720, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 11, 
+            "out": [
+                56509
+            ], 
+            "sa": 0, 
+            "sd": [
+                "6% increased Physical Damage with Swords", 
+                "4% increased Attack Speed with Swords"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Jewel Socket", 
+            "g": 7, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png", 
+            "id": 21984, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 2, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Mana", 
+            "g": 7, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/mana.png", 
+            "id": 22618, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 4, 
+            "out": [
+                21033
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% increased maximum Mana"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Mana", 
+            "g": 7, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/mana.png", 
+            "id": 21033, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 0, 
+            "out": [
+                21984
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% increased maximum Mana"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Mana", 
+            "g": 8, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/mana.png", 
+            "id": 34907, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 5, 
+            "out": [
+                51786, 
+                45067
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased maximum Mana"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Mana and Mana Gain on Killing Blow", 
+            "g": 8, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/mana.png", 
+            "id": 28424, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 1, 
+            "out": [
+                34907
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased maximum Mana", 
+                "+5 Mana gained on Kill"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Thrill Killer", 
+            "g": 8, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ThrillKiller.png", 
+            "id": 45067, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 3, 
+            "out": [
+                28424
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+15 to maximum Mana", 
+                "15% increased maximum Mana", 
+                "+10 Mana gained on Kill"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Strength", 
+            "g": 9, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/plusstrength.png", 
+            "id": 59928, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [
+                63723
+            ], 
+            "sa": 10, 
+            "sd": [
+                "+10 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Elemental Resistance with Shields", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ElementalResistance2.png", 
+            "id": 20349, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                32854
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+8% Elemental Resistances while holding a Shield"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shield Block and Shield Defences", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/blockstr.png", 
+            "id": 62214, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                20832
+            ], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Defences from equipped Shield", 
+                "1% additional Chance to Block with Shields"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shield Block and Shield Defences", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/blockstr.png", 
+            "id": 64426, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                62214
+            ], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Defences from equipped Shield", 
+                "1% additional Chance to Block with Shields"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Sanctuary", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/barricade.png", 
+            "id": 20832, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [
+                20349
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+12% Elemental Resistances while holding a Shield", 
+                "3% additional Chance to Block with Shields"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Elemental Resistance with Shields", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ElementalResistance2.png", 
+            "id": 32854, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                1593
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+8% Elemental Resistances while holding a Shield"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shield Mastery", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupShield.png", 
+            "id": 56305, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shield Defences", 
+            "g": 10, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/shieldblock.png", 
+            "id": 1593, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                64426
+            ], 
+            "sa": 0, 
+            "sd": [
+                "40% increased Defences from equipped Shield"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Poison Damage", 
+            "g": 11, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/Poison.png", 
+            "id": 1648, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 2, 
+            "out": [
+                1461, 
+                20127
+            ], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Damage with Poison"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Chance to Poison", 
+            "g": 11, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/Poison.png", 
+            "id": 20127, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 4, 
+            "out": [
+                31359
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% chance to Poison on Hit"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fatal Toxins", 
+            "g": 11, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/Poison.png", 
+            "id": 31359, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "100% increased Damage with Poison"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Jewel Socket", 
+            "g": 12, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png", 
+            "id": 46882, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 4, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Evasion", 
+            "g": 12, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/evadepercentage.png", 
+            "id": 40132, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 2, 
+            "out": [
+                46882
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Evasion Rating"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Evasion", 
+            "g": 12, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/evadepercentage.png", 
+            "id": 58854, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 0, 
+            "out": [
+                40132
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Evasion Rating"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life Mastery", 
+            "g": 13, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupLife.png", 
+            "id": 15835, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life and Armour", 
+            "g": 13, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/increased armor.png", 
+            "id": 62017, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                33287, 
+                53793
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Armour", 
+                "4% increased maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life and Armour", 
+            "g": 13, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/increased armor.png", 
+            "id": 55676, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                5233
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Armour", 
+                "4% increased maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Juggernaut", 
+            "g": 13, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/increased armor.png", 
+            "id": 33287, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                55676
+            ], 
+            "sa": 0, 
+            "sd": [
+                "16% increased Armour", 
+                "6% increased maximum Life", 
+                "20% increased Life Recovery from Flasks"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lava Lash", 
+            "g": 14, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lavalash.png", 
+            "id": 30439, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 2, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "30% increased Fire Damage with Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Weapon Fire Damage", 
+            "g": 14, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamagestr.png", 
+            "id": 8879, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 4, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage with Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Weapon Fire Damage", 
+            "g": 14, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamagestr.png", 
+            "id": 14419, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 0, 
+            "out": [
+                30439, 
+                8879
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage with Weapons"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap Damage", 
+            "g": 15, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapdamage.png", 
+            "id": 25770, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 5, 
+            "out": [
+                39814
+            ], 
+            "sa": 0, 
+            "sd": [
+                "14% increased Trap Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Trap Damage and Cooldown Recovery", 
+            "g": 15, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/trapsduration.png", 
+            "id": 39814, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 1, 
+            "out": [
+                27190
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Trap Damage", 
+                "10% increased Cooldown Recovery Speed for throwing Traps"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Hasty Reconstruction", 
+            "g": 15, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/Trap.png", 
+            "id": 27190, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 3, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Trap Damage", 
+                "20% increased Cooldown Recovery Speed for throwing Traps"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire Damage", 
+            "g": 16, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamage.png", 
+            "id": 22647, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                24324
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire Damage", 
+            "g": 16, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamage.png", 
+            "id": 885, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                37163
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire Damage", 
+            "g": 16, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamage.png", 
+            "id": 37163, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 2, 
+            "out": [
+                22647
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Explosive Impact", 
+            "g": 16, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamage.png", 
+            "id": 24324, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 8, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Fire Damage", 
+                "5% increased Radius of Area Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire Mastery", 
+            "g": 16, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupFire.png", 
+            "id": 1403, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Amplify", 
+            "g": 17, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/amplify.png", 
+            "id": 61308, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "5% increased Radius of Area Skills", 
+                "20% increased Area Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Area of Effect Radius", 
+            "g": 17, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/blastradius.png", 
+            "id": 40927, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                61308, 
+                39483, 
+                15365
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% increased Radius of Area Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Area of Effect Radius", 
+            "g": 17, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/blastradius.png", 
+            "id": 15365, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                61308, 
+                49254
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% increased Radius of Area Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 10, 
+            "dn": "Dexterity", 
+            "g": 18, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/plusdexterity.png", 
+            "id": 1461, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 4, 
+            "oidx": 10, 
+            "out": [
+                49900, 
+                6797, 
+                31501
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+10 to Dexterity"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Intelligence", 
+            "g": 20, 
+            "ia": 10, 
+            "icon": "Art/2DArt/SkillIcons/passives/plusintelligence.png", 
+            "id": 27656, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [
+                56295
+            ], 
+            "sa": 0, 
+            "sd": [
+                "+10 to Intelligence"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Damage and Accuracy", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/accuracystaff.png", 
+            "id": 13361, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                22702
+            ], 
+            "sa": 0, 
+            "sd": [
+                "6% increased Physical Damage with Staves", 
+                "8% increased Accuracy Rating with Staves"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Blunt Trauma", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/hammerblows.png", 
+            "id": 64395, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [
+                13361
+            ], 
+            "sa": 0, 
+            "sd": [
+                "50% increased Critical Strike Chance with Staves", 
+                "Knocks Back Enemies if you get a Critical Strike with a Staff"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Damage and Attack Speed", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/staffspeed.png", 
+            "id": 17806, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                64395
+            ], 
+            "sa": 0, 
+            "sd": [
+                "6% increased Physical Damage with Staves", 
+                "2% increased Attack Speed with Staves"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Mastery", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupStaff.png", 
+            "id": 16512, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Serpent Stance", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/serpentstance.png", 
+            "id": 22702, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                24229
+            ], 
+            "sa": 0, 
+            "sd": [
+                "40% increased Global Critical Strike Chance while wielding a Staff", 
+                "30% increased Global Critical Strike Multiplier while wielding a Staff"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Damage and Critical Strike Chance", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/critstrchnc.png", 
+            "id": 24229, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                4977
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Physical Damage with Staves", 
+                "20% increased Global Critical Strike Chance while wielding a Staff"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Damage and Critical Strike Chance", 
+            "g": 21, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/critstrchnc.png", 
+            "id": 4977, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                17806
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Physical Damage with Staves", 
+                "20% increased Global Critical Strike Chance while wielding a Staff"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Damage and Critical Strike Chance", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemrange.png", 
+            "id": 33779, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 0, 
+            "out": [
+                17569, 
+                14021
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Totem Damage", 
+                "10% increased Critical Strike Chance with Totem Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Critical Strike Chance", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemrange.png", 
+            "id": 17569, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [
+                44562
+            ], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Critical Strike Chance with Totem Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Critical Strike Multiplier", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemdamage.png", 
+            "id": 45366, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 4, 
+            "out": [
+                20142
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Critical Strike Multiplier with Totem Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Critical Strike Multiplier", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemdamage.png", 
+            "id": 20142, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 2, 
+            "out": [
+                33779
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Critical Strike Multiplier with Totem Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shaman's Dominion", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemrange.png", 
+            "id": 44562, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 6, 
+            "out": [
+                45366
+            ], 
+            "sa": 0, 
+            "sd": [
+                "Gain 100% increased Global Critical Strike Chance for 4 seconds when you Summon a Totem", 
+                "12% increased Critical Strike Multiplier with Totem Skills"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Mastery", 
+            "g": 22, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryTotem.png", 
+            "id": 59036, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Cold Damage", 
+            "g": 23, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/colddamage.png", 
+            "id": 33196, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 10, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Cold Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Cold Damage", 
+            "g": 23, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/colddamage.png", 
+            "id": 13202, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 2, 
+            "out": [
+                33196
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Cold Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Flash Freeze", 
+            "g": 23, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/newcolddamage.png", 
+            "id": 17171, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 6, 
+            "out": [
+                13202
+            ], 
+            "sa": 0, 
+            "sd": [
+                "24% increased Cold Damage", 
+                "15% increased Projectile Speed"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Cold Mastery", 
+            "g": 23, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupCold.png", 
+            "id": 47774, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 5, 
+            "dn": "Attack Speed and Dexterity", 
+            "g": 24, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeed.png", 
+            "id": 15144, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 3, 
+            "out": [
+                58833, 
+                34062
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% increased Attack Speed", 
+                "+5 to Dexterity"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Mana Regeneration and Intelligence", 
+            "g": 24, 
+            "ia": 5, 
+            "icon": "Art/2DArt/SkillIcons/passives/manaregeneration.png", 
+            "id": 2151, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 11, 
+            "out": [
+                58833, 
+                37690, 
+                5560
+            ], 
+            "sa": 0, 
+            "sd": [
+                "20% increased Mana Regeneration Rate", 
+                "+5 to Intelligence"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Spell Damage and Intelligence", 
+            "g": 24, 
+            "ia": 5, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagespells.png", 
+            "id": 47062, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 1, 
+            "out": [
+                58833, 
+                56153
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Spell Damage", 
+                "+5 to Intelligence"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 5, 
+            "dn": "Projectile Damage and Dexterity", 
+            "g": 24, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/projectilespeed.png", 
+            "id": 62103, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 5, 
+            "out": [
+                58833, 
+                39773
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Projectile Damage", 
+                "+5 to Dexterity"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life and Strength", 
+            "g": 24, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/life1.png", 
+            "id": 55373, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 9, 
+            "out": [
+                58833, 
+                38048
+            ], 
+            "sa": 5, 
+            "sd": [
+                "+10 to maximum Life", 
+                "+5 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage and Strength", 
+            "g": 24, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagemelee.png", 
+            "id": 48828, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 7, 
+            "out": [
+                58833, 
+                62662, 
+                45887, 
+                33508
+            ], 
+            "sa": 5, 
+            "sd": [
+                "10% increased Melee Physical Damage", 
+                "+5 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Seven", 
+            "g": 24, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/tempdex.png", 
+            "id": 58833, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": [
+                0
+            ]
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire and Cold Damage", 
+            "g": 25, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ColdAndFireHybridNode.png", 
+            "id": 20852, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                36585, 
+                6785, 
+                41635
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Fire Damage", 
+                "8% increased Cold Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fire Damage", 
+            "g": 25, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/firedamage.png", 
+            "id": 6785, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 10, 
+            "out": [
+                42649
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Fire Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Cold Damage", 
+            "g": 25, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/colddamage.png", 
+            "id": 36585, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 4, 
+            "out": [
+                42649
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Cold Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Snowforged", 
+            "g": 25, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ColdAndFireHybridNotable.png", 
+            "id": 42649, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Fire Damage", 
+                "25% increased Cold Damage", 
+                "30% increased Critical Strike Chance"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Cold and Fire Mastery", 
+            "g": 25, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupColdFire.png", 
+            "id": 55934, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Jewel Socket", 
+            "g": 26, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryBlank.png", 
+            "id": 32763, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 3, 
+            "out": [
+                23334
+            ], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Projectile Damage", 
+            "g": 26, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/projectilespeed.png", 
+            "id": 23334, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 1, 
+            "out": [
+                6797
+            ], 
+            "sa": 0, 
+            "sd": [
+                "4% increased Projectile Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Projectile Damage", 
+            "g": 26, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/projectilespeed.png", 
+            "id": 6797, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 5, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "4% increased Projectile Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shock Duration", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 46469, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 5, 
+            "out": [
+                32431
+            ], 
+            "sa": 0, 
+            "sd": [
+                "30% increased Shock Duration on Enemies"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Heart of Thunder", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 56716, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 10, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Lightning Damage", 
+                "Damage Penetrates 3% Lightning Resistance"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Damage", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 32431, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 6, 
+            "out": [
+                4367
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Lightning Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Damage", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 49588, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 3, 
+            "out": [
+                61264, 
+                11645
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Lightning Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Damage", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 36121, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 7, 
+            "out": [
+                32431, 
+                57362
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Lightning Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Damage", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 55647, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 9, 
+            "out": [
+                56716
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Lightning Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Damage", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 57362, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 8, 
+            "out": [
+                55647
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% increased Lightning Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Shock Chance", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lightningint.png", 
+            "id": 61264, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 4, 
+            "out": [
+                46469
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% chance to Shock"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Lightning Mastery", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupLightning.png", 
+            "id": 44355, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Breath of Lightning", 
+            "g": 27, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/BreathofLightening2.png", 
+            "id": 11645, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 2, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Lightning Damage", 
+                "20% increased Shock Duration on Enemies", 
+                "5% chance to Shock"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 20, 
+            "dn": "Practical Application", 
+            "g": 28, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/castavoidinterruption.png", 
+            "id": 8135, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 3, 
+            "out": [
+                11128
+            ], 
+            "sa": 20, 
+            "sd": [
+                "25% chance to Avoid interruption from Stuns while Casting", 
+                "+20 to Strength", 
+                "+20 to Dexterity"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Avoid Interruption while Casting", 
+            "g": 28, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/castavoidinterruption.png", 
+            "id": 11659, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 1, 
+            "out": [
+                27929, 
+                8135
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% chance to Avoid interruption from Stuns while Casting"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Avoid Interruption while Casting", 
+            "g": 28, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/castavoidinterruption.png", 
+            "id": 11128, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 5, 
+            "out": [
+                11420
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% chance to Avoid interruption from Stuns while Casting"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Precise Interception", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/preciseinterception.png", 
+            "id": 15842, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 6, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "15% increased Physical Attack Damage while holding a Shield", 
+                "60% increased Defences from equipped Shield", 
+                "3% additional Chance to Block with Shields"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Physical Attack Damage with Shield", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ShieldAttackDamage.png", 
+            "id": 30894, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 4, 
+            "out": [
+                15842, 
+                45491
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Physical Attack Damage while holding a Shield"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Physical Attack Damage with Shield", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/ShieldAttackDamage.png", 
+            "id": 18670, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 8, 
+            "out": [
+                15842
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Physical Attack Damage while holding a Shield"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Dual Wield Damage", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeeddual.png", 
+            "id": 903, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 10, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Physical Weapon Damage while Dual Wielding"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Aspect of the Panther", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/heartofthepanther.png", 
+            "id": 38246, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 0, 
+            "out": [
+                903, 
+                3187
+            ], 
+            "sa": 0, 
+            "sd": [
+                "2% additional Block Chance while Dual Wielding", 
+                "16% increased Physical Weapon Damage while Dual Wielding", 
+                "6% increased Attack Speed while Dual Wielding", 
+                "+10 to maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Dual Wield Damage", 
+            "g": 29, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/attackspeeddual.png", 
+            "id": 3187, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 2, 
+            "out": [
+                45491
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Physical Weapon Damage while Dual Wielding"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Bloodless", 
+            "g": 30, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/lifeleechimmunity.png", 
+            "id": 6289, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 2, 
+            "oidx": 0, 
+            "out": [
+                48287
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased maximum Life", 
+                "Enemies Cannot Leech Life From You"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life", 
+            "g": 30, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/life1.png", 
+            "id": 5197, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                487
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% increased maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life", 
+            "g": 30, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/life1.png", 
+            "id": 64587, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 6, 
+            "out": [
+                5197
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% increased maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life", 
+            "g": 30, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/life1.png", 
+            "id": 48287, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [
+                14930, 
+                64587
+            ], 
+            "sa": 0, 
+            "sd": [
+                "5% increased maximum Life"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Life Mastery", 
+            "g": 30, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryGroupLife.png", 
+            "id": 42875, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Spell Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagespells.png", 
+            "id": 2474, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                55804
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Spell Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Spell Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagespells.png", 
+            "id": 55804, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 11, 
+            "out": [
+                49254
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Spell Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Spell Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/damagespells.png", 
+            "id": 49306, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 3, 
+            "out": [
+                2474, 
+                35724
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Spell Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/WeaponDamage.png", 
+            "id": 37980, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 9, 
+            "out": [
+                49254
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Melee Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/WeaponDamage.png", 
+            "id": 52326, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                37980
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Melee Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Melee Damage", 
+            "g": 32, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/WeaponDamage.png", 
+            "id": 19096, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 5, 
+            "out": [
+                52326, 
+                35724
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Melee Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Knockback Chance", 
+            "g": 33, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/knockback.png", 
+            "id": 1252, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 5, 
+            "out": [
+                65456
+            ], 
+            "sa": 0, 
+            "sd": [
+                "6% chance to Knock Enemies Back on hit"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Knockback Distance", 
+            "g": 33, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/knockback.png", 
+            "id": 65456, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 1, 
+            "oidx": 1, 
+            "out": [
+                14056
+            ], 
+            "sa": 0, 
+            "sd": [
+                "25% increased Knockback Distance"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Fending", 
+            "g": 33, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/fending.png", 
+            "id": 30160, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 1, 
+            "oidx": 3, 
+            "out": [
+                1252
+            ], 
+            "sa": 0, 
+            "sd": [
+                "12% chance to Knock Enemies Back on hit", 
+                "25% increased Knockback Distance"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Damage", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemdamage.png", 
+            "id": 23083, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 10, 
+            "out": [
+                41970
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% increased Totem Damage"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Ancestral Bond", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemmax.png", 
+            "id": 41970, 
+            "ks": true, 
+            "m": false, 
+            "not": false, 
+            "o": 4, 
+            "oidx": 33, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [
+                "You can't deal Damage with your Skills yourself", 
+                "Can summon up to 1 additional Totem"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Placement Speed", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemplacementspeed.png", 
+            "id": 22757, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 4, 
+            "out": [
+                49939
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% increased Totem Placement speed"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Life and Resistances", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemlife.png", 
+            "id": 49939, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 1, 
+            "out": [
+                23083
+            ], 
+            "sa": 0, 
+            "sd": [
+                "15% increased Totem Life", 
+                "Totems gain +5% to all Elemental Resistances"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Attack, Cast Speed and Damage", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/totemattackspeed.png", 
+            "id": 10771, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 2, 
+            "oidx": 7, 
+            "out": [
+                22757, 
+                23083
+            ], 
+            "sa": 0, 
+            "sd": [
+                "8% increased Totem Damage", 
+                "Spells Cast by Totems have 2% increased Cast Speed", 
+                "Attacks used by Totems have 3% increased Attack Speed"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Totem Mastery", 
+            "g": 34, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/MasteryTotem.png", 
+            "id": 43486, 
+            "ks": false, 
+            "m": true, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [], 
+            "sa": 0, 
+            "sd": [], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Strength", 
+            "g": 36, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/plusstrength.png", 
+            "id": 56001, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 0, 
+            "oidx": 0, 
+            "out": [
+                17201, 
+                34031, 
+                29933
+            ], 
+            "sa": 10, 
+            "sd": [
+                "+10 to Strength"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Staff Block", 
+            "g": 37, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/blockstaff.png", 
+            "id": 18990, 
+            "ks": false, 
+            "m": false, 
+            "not": false, 
+            "o": 3, 
+            "oidx": 4, 
+            "out": [
+                54667
+            ], 
+            "sa": 0, 
+            "sd": [
+                "2% additional Block Chance with Staves"
+            ], 
+            "spc": []
+        }, 
+        {
+            "da": 0, 
+            "dn": "Whirling Barrier", 
+            "g": 37, 
+            "ia": 0, 
+            "icon": "Art/2DArt/SkillIcons/passives/whirlingstaff.png", 
+            "id": 42917, 
+            "ks": false, 
+            "m": false, 
+            "not": true, 
+            "o": 3, 
+            "oidx": 6, 
+            "out": [
+                47427
+            ], 
+            "sa": 0, 
+            "sd": [
+                "10% chance to gain a Power Charge when you Block", 
+                "6% additional Block Chance with Staves"
+            ], 
+            "spc": []
+        }, 
+    ]
+}
